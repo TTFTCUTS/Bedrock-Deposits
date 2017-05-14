@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bedrockdeposits",
+  "name": "Bedrock Deposits",
+  "description": "Bottomless ore deposits locked in the bedrock.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TTFTCUTS"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
